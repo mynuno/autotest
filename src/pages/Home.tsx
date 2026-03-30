@@ -51,7 +51,7 @@ export default function Home() {
             PicVault
           </h1>
           <p className="text-sm text-gray-500">
-            GVCS 전용 클라우드 사진첩에 오신 것을 환영합니다.<br />
+            GVCS 전용 클라우드 사진첩에 오신 것을 환영합니다!<br />
             학교 이메일로 로그인하여 사진을 공유해 보세요.
           </p>
         </div>
